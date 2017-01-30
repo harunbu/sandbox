@@ -5,4 +5,4 @@ files:
     destination: /var/www/sandbox
 hooks:
   AfterInstall:
-    - location: scripts/AfterInstall.sh
+    - location: /scripts/AfterInstall.sh
