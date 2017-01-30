@@ -1,5 +1,5 @@
 #!/bin/sh
 
-pwd
+cd /var/www/sandbox
 
 /usr/local/bin/composer install
