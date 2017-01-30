@@ -1,5 +1,3 @@
 #!/bin/sh
 
-pwd
-
-composer install
+/usr/local/bin/composer install
