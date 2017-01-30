@@ -1,0 +1,6 @@
+{
+    "require": {
+        "opauth/opauth": "^0.4.4",
+        "opauth/twitter": "^0.3.1"
+    }
+}
