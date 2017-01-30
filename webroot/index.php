@@ -8,6 +8,8 @@
 
 require '../vendor/autoload.php';
 
-use Opauth;
+$opauth = new \Opauth();
 
-echo 'hellow!';
+echo var_export($opauth, true);
+
+echo 'hello!';
