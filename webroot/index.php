@@ -8,6 +8,6 @@
 
 require '../vendor/autoload.php';
 
-use Opauth;
+//use Opauth;
 
 echo 'hellow!';
