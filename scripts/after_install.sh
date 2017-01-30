@@ -2,4 +2,4 @@
 
 cd /var/www/sandbox
 
-/usr/local/bin/composer install
+sudo /usr/local/bin/composer install
