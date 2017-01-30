@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo pwd
+pwd
 
 /usr/local/bin/composer install
