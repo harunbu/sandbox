@@ -6,4 +6,8 @@
  * Time: 17:38
  */
 
-phpinfo();
+require '../vendor/autoload.php';
+
+use Opauth;
+
+echo 'hellow!';
